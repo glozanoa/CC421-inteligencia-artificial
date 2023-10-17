@@ -1,4 +1,8 @@
 env/
 session02/tarea
 session01/assitencia.png
+*/asistencia.png
+tmp/
+*/tarea
 .*
+**/__pycache__/
