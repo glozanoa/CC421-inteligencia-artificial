@@ -6,3 +6,7 @@ tmp/
 */tarea
 .*
 **/__pycache__/
+session05/*.zip
+session05/*.pdf
+session05/*.txt
+session05/PetImages
