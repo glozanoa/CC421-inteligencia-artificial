@@ -10,3 +10,5 @@ session05/*.zip
 session05/*.pdf
 session05/*.txt
 session05/PetImages
+**/checkpoints/
+**/logs/
