@@ -10,5 +10,9 @@ session0?/*.zip
 session0?/*.pdf
 session0?/*.txt
 session0?/PetImages
+
+session06/wine/archive.zip
+session06/wine/wine*.csv
+session06/wine/wine*.names
 **/checkpoints/
 **/logs/
